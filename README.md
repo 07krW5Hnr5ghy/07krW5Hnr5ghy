@@ -9,6 +9,8 @@ He trabajado en proyectos de desarrollo de forma individual y grupal usando las 
 
 ### Proyectos
 #### Proyecto en grupo Express Clothes E - commerce 
+<span>puedes visitarlo haciendo clic en la siguiente imagen </span>
+
 <a href="https://express-clothes.vercel.app">
   <img src="https://github.com/07krW5Hnr5ghy/07krW5Hnr5ghy/blob/main/Screenshot%20from%202022-11-07%2011-03-30.png?raw=true" width=600 height=400
  />
@@ -28,6 +30,8 @@ Backend
 - Passport.js
 
 #### Pokemon SPA
+<span>puedes visitarlo haciendo clic en la siguiente imagen </span>
+
 <a href="https://pi-pokemon-main-client-a1yl.vercel.app">
   <img src="https://user-images.githubusercontent.com/107215929/200466427-3af03555-9392-439d-8725-2e2b45166892.png" width=600 height=400
  />
