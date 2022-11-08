@@ -10,8 +10,33 @@ He trabajado en proyectos de desarrollo de forma individual y grupal usando las 
  />
 </a>
 
+Desarrollado en :
+
+Frontend
+- React
+- Redux
+
+Backend 
+- Node.js
+- Express
+- sequelize
+- postgres
+- Passport.js
+
 #### Pokemon SPA
 <a href="https://pi-pokemon-main-client-a1yl.vercel.app">
   <img src="https://user-images.githubusercontent.com/107215929/200466427-3af03555-9392-439d-8725-2e2b45166892.png" width=600 height=400
  />
 </a>
+
+Desarrollado en :
+
+Frontend
+- React
+- Redux
+
+Backend 
+- Node.js
+- Express
+- postgres
+- sequelize
