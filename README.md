@@ -49,6 +49,11 @@ Backend
 - postgres
 - sequelize
 
+----
+### Contacto
+
+:envelope: jryn145@gmail.com
+
 ---
 <p align="center">
     <img align="center" alt="Juan Pablo Romero GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=07krW5Hnr5ghy&layout=compact" />
@@ -59,3 +64,7 @@ Backend
 <p align="center">
     <img align="center" alt="Juan Pablo Romero GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=07krW5Hnr5ghy&show_icons=true&count_private=true" />
 </p>
+
+
+
+
