@@ -54,13 +54,13 @@ Backend
 
 ---
 <p align="center">
-    <img align="center" alt="Juan Pablo Romero GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=07krW5Hnr5ghy&layout=compact" />
+    <img align="center" alt="Juan Pablo Romero GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=07krW5Hnr5ghy&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 <p align="center">
-    <img align="center" alt="Juan Pablo Romero GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=07krW5Hnr5ghy&show_icons=true&count_private=true" />
+    <img align="center" alt="Juan Pablo Romero GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=07krW5Hnr5ghy&show_icons=true&count_private=true&theme=tokyonight" />
 </p>
 
 
