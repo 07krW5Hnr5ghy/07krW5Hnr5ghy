@@ -27,7 +27,7 @@ Backend
 - postgres
 - Passport.js
 
-#### Pokemon SPA
+<--#### Pokemon SPA
 <span>You can check it out clicking in the image below </span>
 
 <a href="https://pi-pokemon-main-client-a1yl.vercel.app">
@@ -46,7 +46,7 @@ Backend
 - Express
 - postgres
 - sequelize
-
+!-->
 ----
 ### Contact
 
