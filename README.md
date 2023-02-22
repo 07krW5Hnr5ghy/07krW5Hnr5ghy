@@ -28,10 +28,11 @@ Backend
 - Passport.js
 
 #### Pokemon SPA
+<p>A single page application that you can use to see data about pokemons, 
+  create your own pokemons and update the pokemons.</p>
 <span>You can check it out clicking in the image below </span>
-
 <a href="https://pi-pokemon-main-client-a1yl.vercel.app">
-  <img src="https://user-images.githubusercontent.com/107215929/200466427-3af03555-9392-439d-8725-2e2b45166892.png" width=600 height=400
+  <img src="https://user-images.githubusercontent.com/107215929/220698099-c59d90b7-0c50-41bf-8d5f-467d66a56e98.png" width=600 height=400
  />
 </a>
 
@@ -40,12 +41,17 @@ Developed with :
 Frontend
 - React
 - Redux
+- Redux persist
+- sass
+- recharts.js
+- firebase
 
 Backend 
 - Node.js
 - Express
 - postgres
-- sequelize
+- typeorm
+- typescript
 
 ----
 ### Contact
