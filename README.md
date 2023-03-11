@@ -5,6 +5,12 @@ I worked in single and team development projects using the following technologie
 
 ---
 
+### Portfolio web
+
+Click this link to check <a href="https://chimerical-bublanina-f8a683.netlify.app">my web portfolio</a>
+
+---
+
 ### Projects
 #### Team project Express Clothes E - commerce 
 <span>You can check it out clicking in the image below </span>
